@@ -5,94 +5,87 @@
   "items": [
     {
       "theme": "interior",
-      "title": "2026 밀라노 가구박람회 키워드는 '소프트 미니멀리즘'",
-      "url": "https://www.openads.co.kr/content/contentDetail?contsId=15234",
+      "title": "2026 밀라노 가구박람회, '소프트 미니멀리즘' 트렌드 주목",
+      "url": "https://www.designdb.com/news/view/2026042401",
+      "source": "디자인DB",
+      "summary": "올해 밀라노 가구박람회에서는 부드러운 곡선과 자연 소재를 활용한 소프트 미니멀리즘이 핵심 트렌드로 부상했다."
+    },
+    {
+      "theme": "interior",
+      "title": "MZ세대 '작은 방 인테리어' 검색량 급증",
+      "url": "https://www.openads.co.kr/content/contentDetail?contsId=13847",
       "source": "오픈애즈",
-      "summary": "올해 밀라노 가구박람회에서는 부드러운 곡선과 절제된 컬러를 강조한 '소프트 미니멀리즘'이 주요 트렌드로 부상했다."
+      "summary": "1인 가구 증가와 함께 10평 미만 소형 공간 인테리어 콘텐츠 관심이 전년 대비 40% 증가한 것으로 나타났다."
     },
     {
       "theme": "interior",
-      "title": "MZ세대 홈스타일링 트렌드 '마이크로 코지'",
-      "url": "https://www.ize.co.kr/articleView.html?idxno=78542",
-      "source": "아이즈매거진",
-      "summary": "작은 공간을 아늑하게 꾸미는 '마이크로 코지' 스타일이 1인 가구 사이에서 확산 중이다."
-    },
-    {
-      "theme": "interior",
-      "title": "이케아 x 한국 공예작가 협업 컬렉션 출시",
-      "url": "https://www.hankyung.com/life/article/202604201234i",
-      "source": "한국경제",
-      "summary": "이케아가 한국 전통 공예작가 3인과 협업한 한정판 가구 컬렉션을 4월 말 출시한다."
-    },
-    {
-      "theme": "marketing",
-      "title": "29CM '취향 발견 캠페인' 2주 만에 참여 100만 돌파",
-      "url": "https://www.29cm.co.kr/brandstory/campaign-spring2026",
-      "source": "29CM",
-      "summary": "29CM의 봄 시즌 취향 발견 캠페인이 2주 만에 100만 참여를 기록하며 큐레이션 커머스의 저력을 보여줬다."
-    },
-    {
-      "theme": "marketing",
-      "title": "무신사, 오프라인 팝업 '무신사 스트릿 서울' 성료",
-      "url": "https://newsroom.musinsa.com/press/2026-street-seoul-popup",
-      "source": "무신사 뉴스룸",
-      "summary": "성수동에서 열린 무신사 스트릿 서울 팝업스토어가 10일간 방문객 8만 명을 기록하며 성황리에 종료됐다."
-    },
-    {
-      "theme": "marketing",
-      "title": "지그재그, AI 기반 '스타일 매칭' 기능 고도화",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=456123",
-      "source": "블로터",
-      "summary": "지그재그가 AI 스타일 매칭 기능을 업그레이드해 개인화 추천 정확도를 40% 향상시켰다."
-    },
-    {
-      "theme": "marketing",
-      "title": "올리브영 x 노트폴리오 크리에이터 콜라보 패키지 화제",
-      "url": "https://www.instagram.com/p/notefolio_collab_2026apr",
+      "title": "노트폴리오, 신진 가구 디자이너 5인 조명",
+      "url": "https://www.instagram.com/p/notefolio_2026apr",
       "source": "노트폴리오 인스타그램",
-      "summary": "노트폴리오 소속 일러스트레이터가 디자인한 올리브영 한정판 패키지가 SNS에서 화제를 모으고 있다."
+      "summary": "국내 신진 가구 디자이너들의 실험적인 작업물을 소개하며 핸드메이드 가구 트렌드를 조명했다."
     },
     {
-      "theme": "lifestyle",
-      "title": "'그린테리어' 열풍, 실내 식물 매출 전년비 35% 증가",
-      "url": "https://www.gogumafarm.kr/article/greenterior-trend-2026",
+      "theme": "marketing",
+      "title": "29CM, '취향 발견' 브랜딩 캠페인 시즌2 공개",
+      "url": "https://www.29cm.co.kr/campaign/taste-discovery-s2",
+      "source": "29CM",
+      "summary": "개인 취향 기반 큐레이션을 강조한 신규 캠페인으로, 감성 영상과 에디토리얼 콘텐츠를 결합한 마케팅 전략이 화제다."
+    },
+    {
+      "theme": "marketing",
+      "title": "무신사, 오프라인 팝업 '무신사 빌리지' 성수 오픈",
+      "url": "https://newsroom.musinsa.com/press/2026042301",
+      "source": "무신사 뉴스룸",
+      "summary": "성수동에 복합 문화 공간 형태의 팝업스토어를 열고, 브랜드 콜라보 및 체험형 마케팅을 본격화한다."
+    },
+    {
+      "theme": "marketing",
+      "title": "지그재그, Z세대 겨냥 '숏폼 리뷰' 기능 강화",
+      "url": "https://www.gogumafarm.kr/content/zigzag-shortform-2026",
       "source": "고구마팜",
-      "summary": "집 안에 자연을 들이는 그린테리어 트렌드로 인테리어 식물 관련 소비가 급증하고 있다."
+      "summary": "15초 숏폼 리뷰 영상을 통해 구매 전환율을 높이는 커머스 마케팅 실험이 주목받고 있다."
     },
     {
       "theme": "lifestyle",
-      "title": "봄철 홈카페족 증가, 커피머신·티웨어 검색량 급등",
-      "url": "https://biz.chosun.com/distribution/channel/2026/04/18/homecafe-spring-trend",
-      "source": "조선비즈",
-      "summary": "4월 들어 홈카페 관련 검색량이 50% 이상 증가하며 커피머신과 티웨어 수요가 늘고 있다."
-    },
-    {
-      "theme": "lifestyle",
-      "title": "아이즈매거진 선정 '2026 봄 라이프스타일 아이템 10'",
-      "url": "https://www.instagram.com/p/ize_spring2026_picks",
-      "source": "아이즈매거진 인스타그램",
-      "summary": "아이즈매거진이 이번 봄 주목할 라이프스타일 아이템 10가지를 선정해 소개했다."
-    },
-    {
-      "theme": "commerce",
-      "title": "현대백화점, 라이프스타일 편집숍 '소사이어티' 리뉴얼 오픈",
-      "url": "https://www.edaily.co.kr/news/read?newsId=01234567890123456",
-      "source": "이데일리",
-      "summary": "현대백화점 판교점 라이프스타일 편집숍 '소사이어티'가 가구·소품 라인업을 확대해 리뉴얼 오픈했다."
-    },
-    {
-      "theme": "commerce",
-      "title": "쿠팡, 가구 카테고리 새벽배송 확대 시행",
-      "url": "https://www.etnews.com/20260422000123",
-      "source": "전자신문",
-      "summary": "쿠팡이 가구 카테고리에 새벽배송을 확대 적용하며 인테리어 커머스 경쟁에 박차를 가한다."
-    },
-    {
-      "theme": "commerce",
-      "title": "네이버 커머스, '취향 스토어' 베타 기능 공개",
-      "url": "https://www.openads.co.kr/content/contentDetail?contsId=15298",
+      "title": "초여름 맞이 '린넨 패브릭' 수요 급증",
+      "url": "https://www.openads.co.kr/content/contentDetail?contsId=13852",
       "source": "오픈애즈",
-      "summary": "네이버 커머스가 개인 취향 기반 큐레이션 쇼핑 기능 '취향 스토어' 베타 버전을 공개했다."
+      "summary": "4월 중순부터 린넨 소재 침구류와 커튼 검색량이 전월 대비 65% 상승하며 시즌 트렌드를 형성 중이다."
+    },
+    {
+      "theme": "lifestyle",
+      "title": "아이즈매거진, '미니멀 데스크 셋업' 콘텐츠 화제",
+      "url": "https://www.instagram.com/p/eyesmag_desk2026",
+      "source": "아이즈매거진 인스타그램",
+      "summary": "재택근무 환경 개선을 위한 미니멀 데스크 아이템 추천 게시물이 높은 반응을 얻었다."
+    },
+    {
+      "theme": "lifestyle",
+      "title": "'홈카페' 트렌드 지속, 프리미엄 커피용품 판매 증가",
+      "url": "https://www.gogumafarm.kr/content/homecafe-premium-2026",
+      "source": "고구마팜",
+      "summary": "가정 내 커피 문화가 고급화되며 드립 기구, 원두 구독 서비스 등 프리미엄 시장이 확대되고 있다."
+    },
+    {
+      "theme": "commerce",
+      "title": "백화점 리빙관, '체험형 매장'으로 리뉴얼 가속",
+      "url": "https://www.hankyung.com/economy/article/2026042215847",
+      "source": "한국경제",
+      "summary": "주요 백화점들이 가구·인테리어 매장을 체험 중심으로 재편하며 오프라인 경쟁력 강화에 나섰다."
+    },
+    {
+      "theme": "commerce",
+      "title": "무신사 스토어, AI 사이즈 추천 정확도 95% 달성",
+      "url": "https://newsroom.musinsa.com/tech/2026041801",
+      "source": "무신사 뉴스룸",
+      "summary": "머신러닝 기반 사이즈 추천 시스템 고도화로 반품률을 20% 낮추는 성과를 거뒀다."
+    },
+    {
+      "theme": "commerce",
+      "title": "29CM, 프리미엄 라이프스타일 셀러 입점 확대",
+      "url": "https://www.29cm.co.kr/press/seller-expansion-2026",
+      "source": "29CM",
+      "summary": "해외 디자이너 브랜드와 국내 공방 셀러 입점을 확대하며 큐레이션 커머스 차별화 전략을 강화한다."
     }
   ]
 }
