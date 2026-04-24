@@ -1,0 +1,43 @@
+name: 트렌드 레이더 리포트 생성
+
+on:
+  # 매주 금요일 오전 9시 (KST = UTC+9, 즉 UTC 00:00)
+  schedule:
+    - cron: '0 0 * * 5'
+
+  # "지금 바로 생성" 버튼으로 수동 실행
+  workflow_dispatch:
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+
+    # reports/ 폴더에 파일을 커밋하기 위한 권한
+    permissions:
+      contents: write
+
+    steps:
+      - name: 레포 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 패키지 설치
+        run: pip install anthropic
+
+      - name: 트렌드 리포트 생성
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python trend_report.py
+
+      - name: 리포트 파일 커밋 & 푸시
+        run: |
+          git config user.name "Trend Radar Bot"
+          git config user.email "trend-radar@ohouse.kr"
+          git add reports/
+          # 변경사항이 있을 때만 커밋 (중복 실행 방지)
+          git diff --staged --quiet || git commit -m "📡 트렌드 리포트 자동 업로드 $(date +'%Y-%m-%d')"
+          git push
